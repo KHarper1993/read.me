@@ -1,5 +1,5 @@
 ECHO is on.
 
-#Read Me
+#ALmost finished
 
-Hello!
+Print(Hello World X2!)
